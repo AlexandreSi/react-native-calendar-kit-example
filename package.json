@@ -41,6 +41,7 @@
     "spacetime": "^7.12.0"
   },
   "devDependencies": {
+    "@react-native-community/cli": "latest",
     "@types/react": "~19.2.2",
     "typescript": "~5.9.2"
   },
